@@ -10,19 +10,19 @@ Our Fav Animals...
 Mammals:
 Samir - Horse
 Sean - Cat
-Simona - ???
+Simona - Blue Whale
 
 Birds:
 Samir - Eagle
 Sean - Crow
-Simona - ???
+Simona - Budgie
 
 Reptiles:
 Samir - Snake
 Sean - Lizard
-Simona - ???
+Simona - Turtle
 
 Insects:
 Samir - Butterfly
 Sean - Ant
-Simona - ???
+Simona - Bee
